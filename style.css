@@ -1,0 +1,41 @@
+body {
+	background-color: rgb(0, 163, 80, 0.5);
+}
+
+h1 {
+	margin-left: 10%;
+}
+
+h2 {
+	margin-left: 10%;
+}
+
+р {
+	font-family: verdana;
+}
+
+h4 {
+	font-family: serif;
+}
+h5 {
+	font-family: Tahoma;
+}
+
+.classes {
+	text-align: ;
+}
+.movies {
+	font-family: fantasy;
+}
+
+.gtr_img {
+	heigh: 30%;
+	width: 30%;
+}
+.cat_img {
+	height: 20%;
+	width: 20%;
+}
+.inline {
+	display: inline-block;
+}
